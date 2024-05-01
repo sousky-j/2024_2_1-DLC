@@ -1,2 +1,2 @@
-# digital_logic_circuit
+# Digital_Logic_Circuit
 my Task Code for the Digital Logic Circuit Course
